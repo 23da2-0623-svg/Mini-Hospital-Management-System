@@ -4,6 +4,12 @@ A Java-based console application designed to simulate a hospital emergency manag
 
 ---
 
+## 🔗 Project Links & Submission Details
+- **GitHub Repository:** https://github.com/23da2-0623-svg/Mini-Hospital-Management-System
+- **Google Drive (Video Demo & Screenshots):** [Insert Your Google Drive Link Here]
+
+---
+
 ## 📌 Project Overview
 The system simulates real-world emergency hospital operations including patient registration, priority emergency queuing, treatment history tracking, and patient visit logs using custom Data Structure implementations.
 
